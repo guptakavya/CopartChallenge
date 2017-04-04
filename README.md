@@ -1,9 +1,19 @@
+
+Team Members:
+
+1) Kavya Gupta: www.linkedin.com/in/kavyagupta22
+   Contact: gupta.kavya@gmail.com
+
+2) Raghav Mathur: https://www.linkedin.com/in/raghav-mathur
+   Contact: raghav.mathur1@utdallas.edu
+
 # CopartChallenge
-I along with my teammate Raghav Mathur implemented these files for the Copart Challenge. 
+I, Kavya Gupta, along with my teammate Raghav Mathur implemented these files for the Copart Challenge. 
 
 The given folders contain the files according to as follows:
 
 Question 1: Most Appropriate Facility contains three JAVA files.
+We used ZipCode api to to find distane between 2 zipcodes. 
 
 ######################################
 Question 3: Upcoming Auction Vehicle Search - UI/Web Service 
