@@ -17,3 +17,5 @@ The given JAVA file converts a given string to its corresponding integer file wi
 
 Question 9: Extract Text from PDF/Image by the name of ExtractTextFromPDF folder
 Change the path of the file that you want to convert and then comile and run the JAVA file.
+
+I along with my teammate Raghav Mathur implemented these files for the Copart Challenge. 
