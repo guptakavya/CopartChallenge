@@ -14,8 +14,8 @@ The given folders contain the files according to as follows:
 
 Question 1: Most Appropriate Facility contains three JAVA files.
 We used ZipCode api to to find distane between 2 zipcodes. 
+######################
 
-######################################
 Question 3: Upcoming Auction Vehicle Search - UI/Web Service 
 
 Done: Creted the UI page in jsp. Created Backend Servlet and Web service. Taking data as Json in Web service from the given url based on search criteria.
